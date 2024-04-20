@@ -1,0 +1,42 @@
+Tags
+-------
+
+class, id 
+
+<tag class="" id=""> </tag>
+
+inline
+internal
+external
+----------------------------------------------------
+
+Semantics: the study of meaning in language
+----------
+
+HTML Document
+
+SEO - search engine optimization
+
+1. header
+2. footer
+3. nav
+4. aside 
+5. div
+6. section
+7. main
+
+
+<header> This is my </header>
+
+
+lists in html:
+----------------
+
+1. Unordered list
+2. ordered list
+3. description list
+
+
+
+
+

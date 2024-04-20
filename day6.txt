@@ -1,0 +1,43 @@
+<form action="" method=""> 
+</form>
+
+<input placeholder="" id="" type="" value="">
+
+<label for="id"> ... </label>
+
+---------------------------------------------------
+
+Form Tags:
+------------
+1. <input id="">
+2. <label for="">
+3. <select >
+9. <option>
+4. <textarea> -> 
+5. <button>
+
+6. <fieldset>
+7. <legend>
+8. <datalist> -
+10. <optgroup> - 
+11. <output> -> Explore Yourself 
+
+
+---------------------------------------------------
+Input Attributes: 
+-------------------------------
+<input id="" class="" name="">
+
+1. value
+2. readonly
+3. disabled
+4. size
+5. maxlength
+6. min and max
+7. mutiple
+8. pattern (Regex)
+9. placeholder
+10. required
+11. height and width
+12. list
+

@@ -1,0 +1,18 @@
+Multimedia in HTML
+-------------------
+
+1. Image
+2. Videos
+3. Audio
+4. Emojis
+
+
+<img src="" alt="">
+<video src="" controls height="" width="">
+<audio src="" controls height="" width="">
+
+
+
+
+
+

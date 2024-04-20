@@ -1,0 +1,89 @@
+Medias:
+-------------
+
+<video height="" width="" src="link of the video.ex" controls> </video>
+.mp4 
+.mkv
+
+<audio height="" width="" src="link_of_the_audo.ex" controls> </audio>
+.mp3
+
+<iframe src="" > 
+
+<a href="" > 
+
+-------------------------------------------------------
+
+HTML Forms
+-----------
+
+<form>
+</form>
+
+<input> - email, text, date, password
+<label>
+
+
+--------------------
+Radio Buttons 
+
+type = "radio" name="" id=""
+
+
+---------------------------------------------
+CheckBoxes 
+---------------------------------------------
+
+type="checkbox" 
+
+
+Forms in HTML: 
+--------------------
+
+<form ....> </form>
+
+Attributes inside form tag:
+
+action=""
+target=""
+method=""
+
+METHODS:
+---------
+POST
+GET
+PUT
+PATCH
+HEAD
+OPTIONS
+
+<form action="/action.php" method="POST">... </form>
+
+------------------------------------------------------------------------
+
+
+Input Types:
+----------------------------
+type="" default: text
+1. button
+2. checkbox
+3. color
+4. date
+5. datetime-local
+6. email
+7. file
+8. hidden
+9. image
+10. month
+11. password
+12. number
+13. radio
+14. url
+15. week
+16. search
+17. submit
+18. range
+19. tel
+20. time
+
+

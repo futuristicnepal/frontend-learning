@@ -1,0 +1,16 @@
+VS CODE
+
+Extension:
+----------
+1. HTML CSS Intelisense
+2. Live Server
+3. Prettier
+4. Auto Closing Tags
+
+
+Semantics, div, header, footer, nav
+SEO
+Head
+Table
+
+

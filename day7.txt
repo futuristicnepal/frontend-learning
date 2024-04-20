@@ -1,0 +1,123 @@
+lRevision: 
+------------------------------------------
+
+1. HTML - Hyper Text Markup language
+2. Tag - <> </>
+empty/self closing tags -> <img />
+container tag -> <p> ... </p>
+
+3. attributes in html - <tag name="">  
+4. comments -> <!-- comment -->
+5. Headings In HTML -> 
+    <h1> <h2> <h3> <h4> <h5> .. <h6> 
+6. <tag style="height: ; width: ;"> -> inline css 
+
+7. HyperLinks in HTML
+
+webpage to webpage -> navigation
+
+anchor <a href="google.com"> <img src=""> </a>
+
+8. Lists in HTMl 
+    a. Ordered Lists <ol type="1/a/i/A" start="50">
+    b. Unordered Lists 
+    <ul style="list-style-type: "> 
+    c. description lists <dl>
+    d. List Item <li> </li>
+
+    <ol type="A>
+        <li> Computer </li>
+        <li> CPU </li>
+    </ol>
+
+8. Table in HTML
+    <table>
+        <tr>
+            <th> Head 1 </th>
+            <th> Head 2 </th>
+        </tr>
+        <tr>
+        <td> hello </td>
+        <td> hello 2 </td>
+        </tr> 
+        <tr>
+        <td> hello </td>
+        <td> hello 2 </td>
+        </tr> 
+        <tr>
+        <td> hello </td>
+        <td> hello 2 </td>
+        </tr> 
+    </table>
+
+
+9. Semantics in HTML
+
+    <nav> </nav>
+    <header> </header>
+    <footer> </footer>
+    <aside> </aside>
+    <article> </article>
+    <div> </div> 
+
+10. Medias in HTML 
+
+    <audio src=""> </audio>
+    <img src="" controls> </img>
+    <video src="" controls> </video>
+    <iframe src=""> </iframe>
+
+11. HTML Forms 
+    <form>
+    <input id="1" type=""> 
+    <label for="1">
+    <input type="text> - size (css)
+    <textarea cols="" rows="" style="resize: none"> - 
+    <fieldset>
+    <legend>
+    <select>
+    <option> 
+
+-----------------------------------------------------
+
+1. <br> -> line break
+2. <hr> -> Horizontal line
+3. Internal Css -> 
+<head>
+    <style>
+        .className{
+
+        }
+
+        #idName{
+
+        }
+        tagName{
+            property: value;
+        }
+    </style>
+</head> 
+
+4. <img src="" alt=""> 
+
+5. <!DOCTYPE html> -> HTML5 Declaration 
+6. <a href="" target="_self">  
+7. input -> type="" 
+    a. radio
+    b. date
+    c. time
+    d. File
+    e. hidden
+
+8. Empty and Container 
+
+empty/self-closing tags - doesn't have ending <br> <hr>
+container - which have both starting and ending tag 
+paired 
+
+<img /> - Empty 
+
+<input> - empty 
+<textarea>  ... </textarea> - container
+
+

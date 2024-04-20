@@ -1,0 +1,100 @@
+C Programming 
+-------------
+
+Chrome
+Brave
+Edge 
+
+Web Browser - Friend Best 
+-----------
+
+Google - Search Engine
+Bing - Search Engine
+
+
+Web Development
+----------------
+
+1. Frontend 
+	- HTML - Hyper Text Markup Language
+	- CSS - Cascade Style Sheets
+	- Java Script - Programming Language 
+
+2. Backend
+
+-------------------------------------------
+1. Internet and How it works? 
+2. Browser and Search Engine
+3. 
+
+
+---------------------------------------------------
+Protocol: set of rules : Communication Govern
+1. HTTP - Hyper Text Transfer Protocal 
+https = secured (Encrypted) 
+2. TCP/IP -- Transmission Control Protocal
+3. Web Socket - Two Way COmmunication (Real Time Communication) 
+4. FTP - File Transfer Protocal
+5. Secure Shell 
+
+
+class - common name given to multiple tags
+id - unique name given to tags
+
+<h1 class="item" id="tag1">
+<img class="item" id="tag2">
+<li class="list">
+
+<p class="item special"> 
+
+CSS:
+-----
+
+class ->> . dot
+id ->> #
+
+#tag1{
+
+}
+
+.item{
+
+}
+
+
+CSS
+-----
+1. Iniline
+2. Internal CSS
+3. External CSS
+
+
+
+Tomorrow
+----------
+
+1. Basic Structure of HTML
+2. Head Part
+3. Tables in HTML
+4. Text Formatting tags
+5. HTML Attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

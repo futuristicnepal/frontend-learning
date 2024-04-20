@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- Select Tag -->
+    <label for="gender">Gender</label>
+    <select id="gender" size="" name="genders" multiple>
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+        <option value="Other">Other</option>
+    </select>
+
+    <input type="text">
+    <textarea name="" rows="5" cols="30" style="resize: none;">
+        This is Bibek Here. 
+    </textarea>
+
+    <button type="button" onclick="alert('Hey! Guys ')">
+        Click gar!
+    </button>
+
+    <br>
+    <br>
+    <br>
+    <hr>
+
+    <form>
+        <fieldset>
+            <legend>Enter Your Details: </legend>
+            <label for="name">Your Name:</label>
+            <br>
+            <input id="name" type="text">
+            <br>
+            <label for="Password">Your Password:</label>
+            <br>
+            <input id="Password" type="password">
+        </fieldset>
+    </form>
+
+    <br>
+
+    <form>
+        <input type="text" list="languages" name="language">
+        <datalist id="languages">
+            <optgroup>
+                <option value="js">
+                <option value="python">
+                <option value="java">
+            </optgroup>
+            <optgroup>
+                <option value="nepali">
+                <option value="hindi">
+                <option value="english">
+            </optgroup>
+        </datalist>
+
+        <input type="submit">
+    </form>
+
+    <br>
+    <select id="languages">
+        <optgroup label="Programming Languages">
+            <option value="js"> JS </option>
+            <option value="python">Python</option>
+            <option value="java">Java</option>
+        </optgroup>
+        <optgroup label="General Language">
+            <option value="nepali">Nepali</option>
+            <option value="hindi">Hindi</option>
+            <option value="english">English</option>
+        </optgroup>
+    </select>
+
+</body>
+
+</html>
